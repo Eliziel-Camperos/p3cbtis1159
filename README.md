@@ -1,6 +1,6 @@
 # p3cbtis1159
 # Codigo + Pantalla
-![Capturamer](https://github.com/user-attachments/assets/6f7d16f8-6794-48cb-9d46-742b6f24c6e6)
-![Capturaem](https://github.com/user-attachments/assets/b2bd5264-fad7-4f51-96c5-cf8192bac56f)
-![Capturaco](https://github.com/user-attachments/assets/4ba9ccf5-402d-44ac-88ae-4d27b51ca181)
-![Capturavent](https://github.com/user-attachments/assets/ec697138-1266-4938-8b31-9c0cb5282ad0)
+![Capturavent](https://github.com/user-attachments/assets/24a6cc1c-46b8-4371-bcc6-8b2e1214b89f)
+![Capturamer](https://github.com/user-attachments/assets/3559f510-61ff-4894-a775-ffe6dc65eeeb)
+![Capturaem](https://github.com/user-attachments/assets/4d729556-cf1b-4d57-8d72-0e951b9971a5)
+![Capturaco](https://github.com/user-attachments/assets/0e15b92e-dfda-432e-8911-fcd1c593ae4d)
